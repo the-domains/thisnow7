@@ -6,9 +6,9 @@ color:
   saturation: 0.09779989416711032
   rhythmicContrast: 0.32683670800179243
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: thisnow7
